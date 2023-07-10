@@ -47,4 +47,38 @@
     border: none;
     color: white;
     font-weight: 500;
+    font-size: 17px;
 }
+
+/* the main section styles */
+
+main {
+    max-width: 1140px;
+    margin: 140px auto;
+}
+
+.failure {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.section-title {
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+}
+
+.list-para {
+    padding-left: 35px;
+}
+
+.failure-content {
+    width: 417px;
+    padding-top: 150px;
+}
+
+
+
+/* My plans part styles */
